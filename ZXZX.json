@@ -5,12 +5,12 @@
 
 {
          "name": "dtac-Singapore-01-free",
-         "url": "sKhB4NHWjAUgBWqJmbDARCYZseljK8Gz+dstBBSAMV27ltW1l2L7961slzozyI1JORmBEs7+6nY+AodxEeDKJP3mNSRI1nf5fmk/KQ=="
+         "url": "https://raw.githubusercontent.com/ANOFZXX/TOMTAM/main/SG-01-DTAC.ovpn"
       }
 ,
 {
          "name": "true-Singapore-01-free",
-         "url": "ZcNIq7pLWg2/CzkK4rksSNKgSn58irP6IETb7cgwDN2wrqdMgAIHrsI04K1JAu2ZfED1aaasadjXSPNKd1/B/GssqhO7wnDmvujAdA=="
+         "url": "https://raw.githubusercontent.com/ANOFZXX/TOMTAM/main/SG-01-TRUE.ovpn"
       }
 
    ],
@@ -28,5 +28,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":1
+   "version":2
 }
