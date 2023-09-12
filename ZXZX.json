@@ -4,12 +4,12 @@
 
 
 {
-         "name": "dtac-Singapore-01-free",
+         "name": "DTAC-SG-01-FREE",
          "url": "https://raw.githubusercontent.com/ANOFZXX/TOMTAM/main/SG-01-DTAC.ovpn"
       }
 ,
 {
-         "name": "true-Singapore-01-free",
+         "name": "TRUE-SG-01-FREE",
          "url": "https://raw.githubusercontent.com/ANOFZXX/TOMTAM/main/SG-01-TRUE.ovpn"
       }
 
@@ -28,5 +28,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":2
+   "version":3
 }
